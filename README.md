@@ -16,12 +16,13 @@ This repository serves as a submission and reference point for the completed res
 
 ![image alt](https://github.com/2468UNIVERSE/Owl-AI-Internship-/blob/main/Screenshot%202026-01-30%20151216.png?raw=true)
 
-# Task 4: Create a Command-Line To-Do List Application
-This is a command-line based To-Do List application developed using Python.
+# Task 3: Create a Command-Line To-Do List Application
+This is a command-line based To-Do List application developed using Python using object-oriented programming principles.
 It allows users to add, view, complete, and delete daily tasks through a menu-driven interface.
-Each task is assigned a unique ID for easy management.
-The program runs in a loop until the user chooses to exit.
-This project demonstrates basic object-oriented programming and user input handling in Python.
+The application uses classes and objects to represent tasks and manage the task list efficiently.
+Each task is assigned a unique ID for easy identification and management.
+The program runs continuously until the user chooses to exit.
+This project demonstrates core OOP concepts such as classes, objects, methods, and encapsulation in Python.
 
 # Task 4: Build a Basic REST API
 ### Flask + MySQL CRUD REST API
