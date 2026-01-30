@@ -8,5 +8,6 @@ This repository serves as a submission and reference point for the completed res
 
 # Task 2: Build a Simple Web Interface for Owl AI
 # Screenshort of the UI
+![image alt](https://github.com/2468UNIVERSE/Owl-AI-Internship-/blob/main/Screenshot%202026-01-30%20151119.png?raw=true)
 
 
