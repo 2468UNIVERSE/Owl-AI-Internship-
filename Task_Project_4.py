@@ -12,7 +12,7 @@ app = Flask(__name__)
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "MagicBabita@#?24",
+    "password": "password",  # enter your own mysql password
     "database": "flask_crud_api"
 }
 
@@ -162,3 +162,4 @@ def delete_task(task_id):
 # -----------------------------
 if __name__ == "__main__":
     app.run(debug=True)
+
