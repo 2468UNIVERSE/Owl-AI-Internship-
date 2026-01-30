@@ -1,6 +1,6 @@
-###Task 1: Research on the Python Developer Role
+# Task 1: Research on the Python Developer Role
 
-#Objective
+### Objective
 This task presents a research-based study on the Python Developer role.
 The detailed explanation of responsibilities, tools, and real-world applications is provided in the attached PDF document.
 The document focuses on the importance of Python in modern software development and industry use cases.
